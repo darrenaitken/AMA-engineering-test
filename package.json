@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AMA-engineering/frontend.git"
+    "url": "git+https://github.com/darrenaitken/AMA-engineering-test.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AMA-engineering/frontend/issues"
+    "url": "https://github.com/darrenaitken/AMA-engineering-test/issues"
   },
-  "homepage": "https://github.com/AMA-engineering/frontend#readme",
+  "homepage": "https://github.com/darrenaitken/AMA-engineering-test#readme",
   "dependencies": {
     "json-server": "^0.16.2"
   }
